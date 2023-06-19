@@ -1,0 +1,11 @@
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\bin\Debug\TimeZoneClock.exe.config
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\bin\Debug\TimeZoneClock.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\bin\Debug\TimeZoneClock.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.Form1.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\TimeZoneClock\obj\Debug\TimeZoneClock.pdb
